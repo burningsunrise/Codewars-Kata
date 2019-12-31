@@ -1,0 +1,11 @@
+/home/richc/RiderProjects/TwoZero/TwoZero/bin/Debug/netcoreapp2.2/TwoZero.deps.json
+/home/richc/RiderProjects/TwoZero/TwoZero/bin/Debug/netcoreapp2.2/TwoZero.runtimeconfig.json
+/home/richc/RiderProjects/TwoZero/TwoZero/bin/Debug/netcoreapp2.2/TwoZero.runtimeconfig.dev.json
+/home/richc/RiderProjects/TwoZero/TwoZero/bin/Debug/netcoreapp2.2/TwoZero.dll
+/home/richc/RiderProjects/TwoZero/TwoZero/bin/Debug/netcoreapp2.2/TwoZero.pdb
+/home/richc/RiderProjects/TwoZero/TwoZero/obj/Debug/netcoreapp2.2/TwoZero.csprojAssemblyReference.cache
+/home/richc/RiderProjects/TwoZero/TwoZero/obj/Debug/netcoreapp2.2/TwoZero.csproj.CoreCompileInputs.cache
+/home/richc/RiderProjects/TwoZero/TwoZero/obj/Debug/netcoreapp2.2/TwoZero.AssemblyInfoInputs.cache
+/home/richc/RiderProjects/TwoZero/TwoZero/obj/Debug/netcoreapp2.2/TwoZero.AssemblyInfo.cs
+/home/richc/RiderProjects/TwoZero/TwoZero/obj/Debug/netcoreapp2.2/TwoZero.dll
+/home/richc/RiderProjects/TwoZero/TwoZero/obj/Debug/netcoreapp2.2/TwoZero.pdb

@@ -1,0 +1,7 @@
+C:\Users\burningsunrise\source\repos\ShortestWord\ShortestWord\bin\Debug\ShortestWord.exe.config
+C:\Users\burningsunrise\source\repos\ShortestWord\ShortestWord\bin\Debug\ShortestWord.exe
+C:\Users\burningsunrise\source\repos\ShortestWord\ShortestWord\bin\Debug\ShortestWord.pdb
+C:\Users\burningsunrise\source\repos\ShortestWord\ShortestWord\obj\Debug\ShortestWord.csproj.CoreCompileInputs.cache
+C:\Users\burningsunrise\source\repos\ShortestWord\ShortestWord\obj\Debug\ShortestWord.exe
+C:\Users\burningsunrise\source\repos\ShortestWord\ShortestWord\obj\Debug\ShortestWord.pdb
+C:\Users\burningsunrise\source\repos\ShortestWord\ShortestWord\obj\Debug\ShortestWord.csprojAssemblyReference.cache

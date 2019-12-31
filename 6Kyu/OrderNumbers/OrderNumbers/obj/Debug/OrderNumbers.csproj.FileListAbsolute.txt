@@ -1,0 +1,7 @@
+C:\Users\burningsunrise\source\repos\OrderNumbers\OrderNumbers\bin\Debug\OrderNumbers.exe.config
+C:\Users\burningsunrise\source\repos\OrderNumbers\OrderNumbers\bin\Debug\OrderNumbers.exe
+C:\Users\burningsunrise\source\repos\OrderNumbers\OrderNumbers\bin\Debug\OrderNumbers.pdb
+C:\Users\burningsunrise\source\repos\OrderNumbers\OrderNumbers\obj\Debug\OrderNumbers.csprojAssemblyReference.cache
+C:\Users\burningsunrise\source\repos\OrderNumbers\OrderNumbers\obj\Debug\OrderNumbers.csproj.CoreCompileInputs.cache
+C:\Users\burningsunrise\source\repos\OrderNumbers\OrderNumbers\obj\Debug\OrderNumbers.exe
+C:\Users\burningsunrise\source\repos\OrderNumbers\OrderNumbers\obj\Debug\OrderNumbers.pdb

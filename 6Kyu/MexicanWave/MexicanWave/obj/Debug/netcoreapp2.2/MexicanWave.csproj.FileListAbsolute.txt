@@ -1,0 +1,11 @@
+/home/richc/RiderProjects/MexicanWave/MexicanWave/bin/Debug/netcoreapp2.2/MexicanWave.deps.json
+/home/richc/RiderProjects/MexicanWave/MexicanWave/bin/Debug/netcoreapp2.2/MexicanWave.runtimeconfig.json
+/home/richc/RiderProjects/MexicanWave/MexicanWave/bin/Debug/netcoreapp2.2/MexicanWave.runtimeconfig.dev.json
+/home/richc/RiderProjects/MexicanWave/MexicanWave/bin/Debug/netcoreapp2.2/MexicanWave.dll
+/home/richc/RiderProjects/MexicanWave/MexicanWave/bin/Debug/netcoreapp2.2/MexicanWave.pdb
+/home/richc/RiderProjects/MexicanWave/MexicanWave/obj/Debug/netcoreapp2.2/MexicanWave.csprojAssemblyReference.cache
+/home/richc/RiderProjects/MexicanWave/MexicanWave/obj/Debug/netcoreapp2.2/MexicanWave.csproj.CoreCompileInputs.cache
+/home/richc/RiderProjects/MexicanWave/MexicanWave/obj/Debug/netcoreapp2.2/MexicanWave.AssemblyInfoInputs.cache
+/home/richc/RiderProjects/MexicanWave/MexicanWave/obj/Debug/netcoreapp2.2/MexicanWave.AssemblyInfo.cs
+/home/richc/RiderProjects/MexicanWave/MexicanWave/obj/Debug/netcoreapp2.2/MexicanWave.dll
+/home/richc/RiderProjects/MexicanWave/MexicanWave/obj/Debug/netcoreapp2.2/MexicanWave.pdb

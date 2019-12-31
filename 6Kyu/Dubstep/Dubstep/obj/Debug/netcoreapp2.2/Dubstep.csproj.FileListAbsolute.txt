@@ -1,0 +1,11 @@
+/home/richc/RiderProjects/Dubstep/Dubstep/bin/Debug/netcoreapp2.2/Dubstep.deps.json
+/home/richc/RiderProjects/Dubstep/Dubstep/bin/Debug/netcoreapp2.2/Dubstep.runtimeconfig.json
+/home/richc/RiderProjects/Dubstep/Dubstep/bin/Debug/netcoreapp2.2/Dubstep.runtimeconfig.dev.json
+/home/richc/RiderProjects/Dubstep/Dubstep/bin/Debug/netcoreapp2.2/Dubstep.dll
+/home/richc/RiderProjects/Dubstep/Dubstep/bin/Debug/netcoreapp2.2/Dubstep.pdb
+/home/richc/RiderProjects/Dubstep/Dubstep/obj/Debug/netcoreapp2.2/Dubstep.csprojAssemblyReference.cache
+/home/richc/RiderProjects/Dubstep/Dubstep/obj/Debug/netcoreapp2.2/Dubstep.csproj.CoreCompileInputs.cache
+/home/richc/RiderProjects/Dubstep/Dubstep/obj/Debug/netcoreapp2.2/Dubstep.AssemblyInfoInputs.cache
+/home/richc/RiderProjects/Dubstep/Dubstep/obj/Debug/netcoreapp2.2/Dubstep.AssemblyInfo.cs
+/home/richc/RiderProjects/Dubstep/Dubstep/obj/Debug/netcoreapp2.2/Dubstep.dll
+/home/richc/RiderProjects/Dubstep/Dubstep/obj/Debug/netcoreapp2.2/Dubstep.pdb

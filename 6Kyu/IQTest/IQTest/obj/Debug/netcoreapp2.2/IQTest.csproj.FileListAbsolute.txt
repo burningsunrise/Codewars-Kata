@@ -1,0 +1,11 @@
+/home/richc/RiderProjects/IQTest/IQTest/bin/Debug/netcoreapp2.2/IQTest.deps.json
+/home/richc/RiderProjects/IQTest/IQTest/bin/Debug/netcoreapp2.2/IQTest.runtimeconfig.json
+/home/richc/RiderProjects/IQTest/IQTest/bin/Debug/netcoreapp2.2/IQTest.runtimeconfig.dev.json
+/home/richc/RiderProjects/IQTest/IQTest/bin/Debug/netcoreapp2.2/IQTest.dll
+/home/richc/RiderProjects/IQTest/IQTest/bin/Debug/netcoreapp2.2/IQTest.pdb
+/home/richc/RiderProjects/IQTest/IQTest/obj/Debug/netcoreapp2.2/IQTest.csprojAssemblyReference.cache
+/home/richc/RiderProjects/IQTest/IQTest/obj/Debug/netcoreapp2.2/IQTest.csproj.CoreCompileInputs.cache
+/home/richc/RiderProjects/IQTest/IQTest/obj/Debug/netcoreapp2.2/IQTest.AssemblyInfoInputs.cache
+/home/richc/RiderProjects/IQTest/IQTest/obj/Debug/netcoreapp2.2/IQTest.AssemblyInfo.cs
+/home/richc/RiderProjects/IQTest/IQTest/obj/Debug/netcoreapp2.2/IQTest.dll
+/home/richc/RiderProjects/IQTest/IQTest/obj/Debug/netcoreapp2.2/IQTest.pdb

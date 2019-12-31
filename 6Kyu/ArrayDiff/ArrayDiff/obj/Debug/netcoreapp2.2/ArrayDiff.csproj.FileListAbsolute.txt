@@ -1,0 +1,11 @@
+/home/richc/RiderProjects/ArrayDiff/ArrayDiff/bin/Debug/netcoreapp2.2/ArrayDiff.deps.json
+/home/richc/RiderProjects/ArrayDiff/ArrayDiff/bin/Debug/netcoreapp2.2/ArrayDiff.runtimeconfig.json
+/home/richc/RiderProjects/ArrayDiff/ArrayDiff/bin/Debug/netcoreapp2.2/ArrayDiff.runtimeconfig.dev.json
+/home/richc/RiderProjects/ArrayDiff/ArrayDiff/bin/Debug/netcoreapp2.2/ArrayDiff.dll
+/home/richc/RiderProjects/ArrayDiff/ArrayDiff/bin/Debug/netcoreapp2.2/ArrayDiff.pdb
+/home/richc/RiderProjects/ArrayDiff/ArrayDiff/obj/Debug/netcoreapp2.2/ArrayDiff.csprojAssemblyReference.cache
+/home/richc/RiderProjects/ArrayDiff/ArrayDiff/obj/Debug/netcoreapp2.2/ArrayDiff.csproj.CoreCompileInputs.cache
+/home/richc/RiderProjects/ArrayDiff/ArrayDiff/obj/Debug/netcoreapp2.2/ArrayDiff.AssemblyInfoInputs.cache
+/home/richc/RiderProjects/ArrayDiff/ArrayDiff/obj/Debug/netcoreapp2.2/ArrayDiff.AssemblyInfo.cs
+/home/richc/RiderProjects/ArrayDiff/ArrayDiff/obj/Debug/netcoreapp2.2/ArrayDiff.dll
+/home/richc/RiderProjects/ArrayDiff/ArrayDiff/obj/Debug/netcoreapp2.2/ArrayDiff.pdb

@@ -1,0 +1,7 @@
+C:\Users\burningsunrise\source\repos\DisemvowelTrolls\DisemvowelTrolls\bin\Debug\DisemvowelTrolls.exe.config
+C:\Users\burningsunrise\source\repos\DisemvowelTrolls\DisemvowelTrolls\bin\Debug\DisemvowelTrolls.exe
+C:\Users\burningsunrise\source\repos\DisemvowelTrolls\DisemvowelTrolls\bin\Debug\DisemvowelTrolls.pdb
+C:\Users\burningsunrise\source\repos\DisemvowelTrolls\DisemvowelTrolls\obj\Debug\DisemvowelTrolls.csprojAssemblyReference.cache
+C:\Users\burningsunrise\source\repos\DisemvowelTrolls\DisemvowelTrolls\obj\Debug\DisemvowelTrolls.csproj.CoreCompileInputs.cache
+C:\Users\burningsunrise\source\repos\DisemvowelTrolls\DisemvowelTrolls\obj\Debug\DisemvowelTrolls.exe
+C:\Users\burningsunrise\source\repos\DisemvowelTrolls\DisemvowelTrolls\obj\Debug\DisemvowelTrolls.pdb
